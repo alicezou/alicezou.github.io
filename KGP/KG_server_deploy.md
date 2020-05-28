@@ -1,16 +1,23 @@
 # KNP Server
-_created by Jiayun Zou on 5.28.2020_ \
-_version 0.0_\
+_created by Jiayun Zou on 5.28.2020_ 
+
+_version 0.0_
+
 _last update: 5.28.2020_
+
 ## Access Server
-**You need to connect to a UM VPN to access the server.**\
-**You need to connect to a UM VPN to access the server.**\
+**You need to connect to a UM VPN to access the server.**
+
+**You need to connect to a UM VPN to access the server.**
+
 **You need to connect to a UM VPN to access the server.**
 
 If you do not have a UM VPN, you can download it [here](https://documentation.its.umich.edu/vpn/vpn-download-windows-vpn-client).
 
-Once you have connected to UM VPN, \
-![image](cisco.png)\
+Once you have connected to UM VPN, 
+
+![image](cisco.png)
+
 you can open a terminal, and type in `ssh <uniquename>@lasagna.eecs.umich.edu`. 
 The password is just your password for other UM services.
 Now you have accessed the server.
@@ -32,7 +39,8 @@ If you run it locally, you should adjust it locally.), you have
 ![image](server.jpg)
 ![image](kgpl.png)
 
-You can open many servers at the same time on different ports. \
+You can open many servers at the same time on different ports. 
+
 <sub><sup>_For instance, you can test parent server functionality by taking advantage of 
 different ports._</sup></sub>
 
